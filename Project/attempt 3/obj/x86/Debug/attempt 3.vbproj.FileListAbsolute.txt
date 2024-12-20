@@ -1,0 +1,50 @@
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\attempt 3.exe
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\attempt 3.pdb
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\attempt 3.xml
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.vbproj.GenerateResource.Cache
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.exe
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.xml
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.pdb
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Form3.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Form4.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Form5.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\WindowsApplication1.Form6.resources
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.vbproj.AssemblyReference.cache
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.vbproj.CoreCompileInputs.cache
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\attempt 3.exe.config
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\MySql.Data.dll
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\System.Memory.dll
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\System.Numerics.Vectors.dll
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\System.Buffers.dll
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\sami visual basic\attempt 3\attempt 3\bin\Debug\MySql.Data.xml
+F:\sami visual basic\attempt 3\attempt 3\obj\x86\Debug\attempt 3.vbproj.Up2Date
+D:\Project\attempt 3\bin\Debug\attempt 3.exe.config
+D:\Project\attempt 3\bin\Debug\attempt 3.exe
+D:\Project\attempt 3\bin\Debug\attempt 3.pdb
+D:\Project\attempt 3\bin\Debug\attempt 3.xml
+D:\Project\attempt 3\bin\Debug\System.Memory.dll
+D:\Project\attempt 3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\attempt 3\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\attempt 3\bin\Debug\System.Buffers.dll
+D:\Project\attempt 3\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Project\attempt 3\bin\Debug\MySql.Data.xml
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.vbproj.AssemblyReference.cache
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Project\attempt 3\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.vbproj.GenerateResource.cache
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.vbproj.CoreCompileInputs.cache
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.vbproj.Up2Date
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.exe
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.xml
+D:\Project\attempt 3\obj\x86\Debug\attempt 3.pdb
